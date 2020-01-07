@@ -1,0 +1,53 @@
+body{
+  font-family: sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+  font-family: 'Baloo Bhai', cursive;
+}
+
+.navigation{
+  color: #fff;
+  padding: 5% 7%;
+}
+
+.my-name{
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 30px;
+}
+
+.nav-link{
+  font-size: 20px;
+}
+
+.title{
+  background-image: url('https://images.unsplash.com/photo-1541336032412-2048a678540d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: -150px;
+  Width: 100%;
+  color:#fff;
+}
+
+.titletext{
+  padding: 10% 7%;
+}
+
+.skill-box{
+  padding: 3%;
+  margin: 7% auto;
+  text-align: center;
+
+}
+.icon{
+  text-align: center;
+  color :#000
+}
+
+.icon:hover{
+  color: #8f8f8f
+}
+
+.cardchagne{
+  padding: 3%;
+}
